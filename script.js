@@ -1,3 +1,4 @@
-function showMessage() {
-  alert("❤️ I Love You So Much, Ma Ma! ❤️\nHappy Birthday! 🎂🎉");
+function openGift() {
+    window.location.href = "gift.html";
 }
+
